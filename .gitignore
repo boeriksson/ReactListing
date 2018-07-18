@@ -1,0 +1,8 @@
+
+# Intellij
+.idea/
+*.iml
+
+.gitignore
+ReactListing.iml
+

@@ -1,0 +1,6 @@
+dev-server/**/*
+build/**/*
+lib/**/*
+node/**/*
+node_modules/**/*
+.idea/**/*
